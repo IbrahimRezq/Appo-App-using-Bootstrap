@@ -1,2 +1,2 @@
-# Appo-App-using-Bootstrap
-Appo-app-template built using bootstrap
+# Portfolio-Template
+Portfolio-Template built using bootstrap
