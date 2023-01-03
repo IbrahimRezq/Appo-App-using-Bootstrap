@@ -1,2 +1,2 @@
 # Portfolio-Template
-Portfolio-Template built using bootstrap
+Portfolio-Template built using tailwind
